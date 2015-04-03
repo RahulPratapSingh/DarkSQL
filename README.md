@@ -10,6 +10,11 @@ Currenty, It has two modes:
 You can download DarkSQL by cloning the Git repository:                         
 
         git clone https://github.com/RahulPratapSingh/DarkSQL.git DarkSQL-dev
+ 
+Preferably, to download in zip format, click [here](https://github.com/RahulPratapSingh/DarkSQL/zipball/master)
+or in tar format, click [here](https://github.com/RahulPratapSingh/DarkSQL/tarball/master)
+
+DarkSQL works best with python 2.7.x
 
 # Usage ScreenShots
 
